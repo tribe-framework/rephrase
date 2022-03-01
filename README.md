@@ -4,11 +4,11 @@ re::phrase is a shorthand convention for writing plain text blocks as strings th
 The convention helps content and code collaborators work together with pre-decided project-based rules on how they will use the structure.
 
 # The Convention
-&#35;&#35; for text blocks
-:: for subtext items
-** to mark favourites
-all fields are optional
-whitespace is to be ignored
+&#35;&#35; for text blocks 
+:: for subtext items 
+** to mark favourites 
+all fields are optional 
+whitespace is to be ignored 
 
 # Structure
 
@@ -41,4 +41,10 @@ This is for plain text values - typically text or texarea input fields in HTML.
 ## Examples
 In a typical scenario, this can replace the use of multi-input fields from CMS dashboards / form inputs, or add additional complexity handling to them.
 
-[re::phrase examples](https://wildfiretech.co/uploads/2022/03-March/01-Tue/rephrase-examples.png)
+![re::phrase examples](https://wildfiretech.co/uploads/2022/03-March/01-Tue/rephrase-examples.png)
+
+## More info and contact
+https://wildfiretech.co/page/our-approach<br>
+https://github.com/wil-ldf-ire
+
+![Wildfire logo](https://wildfiretech.co/theme/assets/img/logo-bg.png "Wildfire logo")
