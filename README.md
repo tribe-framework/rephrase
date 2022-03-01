@@ -4,23 +4,25 @@ re::phrase is a shorthand convention for writing plain text blocks as strings th
 The convention helps content and code collaborators work together with pre-decided project-based rules on how they will use the structure.
 
 # The Convention
-&#35;&#35; for text blocks 
-:: for subtext items 
-** to mark favourites 
-all fields are optional 
+&#35;&#35; for text blocks<br>
+:: for subtext items<br>
+** to mark favourites<br>
+all fields are optional<br>
 whitespace is to be ignored 
 
 # Structure
 
-`pretext
-	## text 1
-	## text 2**
-	## text 3
-		:: subtext 1**
-		:: subtext 2
-		:: subtext 3
- 	:: subtext 4**
-	## text 4**`
+```
+pretext
+## text 1
+## text 2**
+## text 3
+	:: subtext 1**
+	:: subtext 2
+	:: subtext 3
+	:: subtext 4**
+## text 4**
+```
 
 or, in single line
 
