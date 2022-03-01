@@ -33,15 +33,15 @@ or, even shorter
 `pretext##text 1##text 2**##text 3::subtext 1**::subtext 2::subtext 3::subtext 4**##text 4**`
 
 ## How is it different from JSON
-The re::phrase convention is only for structuring values, and not key-value pairs, whereas JSON provides a robust convention for key-value pair structuring. Re::phrase can be quickly typed with less changes of mistakes, JSON is difficult to write without JSON validator.
+The re::phrase convention is only for structuring values, and not key-value pairs, whereas JSON provides a robust convention for key-value pair structuring. Re::phrase can be quickly typed with less chances of mistakes, JSON is difficult to write without a JSON validator.
 
 
 ## How is it different from Markdown
-This is for plain text values - typically text or texarea input fields in HTML.
+This is for plain text values not for formating text.
 
 
 ## Examples
-In a typical scenario, this can replace the use of multi-input fields from CMS dashboards / form inputs, or add additional complexity handling to them.
+In a typical scenario, this can replace the use of multi-input fields from CMS dashboards / form inputs, or add additional complexity handling to them, for text or texarea input fields in HTML forms or for adding more dimensions to spreadsheet cells.
 
 ![re::phrase examples](https://wildfiretech.co/uploads/2022/03-March/01-Tue/rephrase-examples.png)
 
